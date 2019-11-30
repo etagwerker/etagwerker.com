@@ -1,13 +1,12 @@
-name: Fast Ruby Blog
-description: Ruby on Rails Upgrades
-meta_description: "It's about time you upgrade your Rails version"
+name: Pivot or Persevere
+description: Articles by Ernesto Tagwerker
+meta_description: "Random rants about random stuff"
 
 markdown: redcarpet
 highlighter: pygments
 logo: true
 paginate: 15
-baseurl: /blog
-domain_name: 'https://fastruby.io'
+domain_name: 'https://etagwerker'
 permalink: none
 category_dir: 'tags'
 excerpt_separator: "<!--more-->"
@@ -15,8 +14,8 @@ author_title_prefix: "Articles by "
 timezone: America/New_York
 
 # Details for the RSS feed generator
-url:            'https://fastruby.io'
-author:         'OmbuLabs'
+url:            'https://etagwerker.com'
+author:         '@etagwerker'
 feed:
   path: rss.xml
 
@@ -43,39 +42,5 @@ authors:
     email: ernesto@ombulabs.com
     twitter: etagwerker
     github: etagwerker
-  mauro-oto:
-    display_name: Mauro Otonelli
-    gravatar: 350875eb8fce8553e12040c5a1f5d5d0
-    email: mauro@ombulabs.com
-    twitter: mauro_oto
-    github: mauro-oto
-  luciano:
-    display_name: Luciano Becerra
-    gravatar: 9219f1f8634fafcbed16e72a0bb5a414
-    email: luciano@ombulabs.com
-    twitter: lubc32
-    github: lubc
-  emily:
-    display_name: Emily Cohen
-    gravatar: 1abbc4d93954d2df607cc3ec7fa9f418
-    email: emily@ombulabs.com
-    twitter:
-    github: ercohen14
-  cleiviane:
-    display_name: Cleiviane Costa
-    gravatar: db42db5ca02074d39438c612433f2209
-    email: cleiviane@ombulabs.com
-    twitter:
-    github: cleivianecosta
-  bronzdoc:
-    display_name: "Luis Sagastume"
-    gravatar: a223b4e7d8ec959c9aa6668cddcfa605
-    email: luis@ombulabs.com
-    twitter: bronzdoc
-    github: bronzdoc
-  abizzinotto:
-    display_name: "Amanda Bizzinotto"
-    gravatar: 31e0846e316c552502506d6cc998fbd1
-    email: amanda@ombulabs.com
-    twitter: AmandaBizzinot2
-    github: ABizzinotto
+
+theme: minima
