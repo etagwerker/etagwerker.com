@@ -1,0 +1,22 @@
+---
+title: Streaks
+description: >-
+  Having a streak is such great motivation. I’ve been writing articles for 10
+  business days straight.
+date: '2016-04-27T00:56:01.361Z'
+categories: []
+keywords: []
+slug: /streaks-61adb45f36c1
+---
+
+Having a streak is such **great motivation**. I’ve been writing articles for **10** business days straight.
+
+I started on [April 13th](https://medium.com/@etagwerker/from-idea-to-mvp-6a1844992749#.a6g1ptwol) and I haven’t stopped. Sure, I’ve had some days where I was really busy and I barely had time to write the article. But I pulled through.
+
+Last Friday I completely forgot to write an article and I ended up writing it during dinner with friends: [Hire passionate people](https://medium.com/@etagwerker/hire-passionate-people-31ef4d0f21aa#.dmtrl76vm). It’s an idea that I had in my mind and writing it was easy. (_I had to ignore my friends for 15 minutes though_)
+
+I’m currently on another streak. I’ve [contributed to open source projects for 14 days straight](https://github.com/etagwerker): From April 13th to April 26th.
+
+I’ve been quite obsessed with [consistency](https://medium.com/@etagwerker/consistency-76a4a8b31d34#.9cakfgw6j) and streaks. I even wrote about [The 7 Days Open Source Challenge](https://www.ombulabs.com/blog/open-source/the-7-days-open-source-challenge.html). I believe that they are a great way to get better at something. **Practice does make perfect.**
+
+I believe that **streaks** are a great way to **form a habit**. Give it a try!
