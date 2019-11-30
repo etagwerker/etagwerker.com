@@ -9,7 +9,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
       files << File.new(page)
     end
 
-    SitemapGenerator::Sitemap.default_host = site.config["url"] + "/blog"
+    SitemapGenerator::Sitemap.default_host = site.config["url"]
     public_path = Dir.pwd.end_with?("blog") ? "_site" : "public/blog"
     SitemapGenerator::Sitemap.public_path = public_path
     SitemapGenerator::Sitemap.create compress: false do

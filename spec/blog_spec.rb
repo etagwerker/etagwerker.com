@@ -4,9 +4,9 @@ require 'nokogiri'
 # Adapted from https://gist.github.com/thbar/10be2ea924b81f78d24ab800461bfee3
 RSpec.describe 'Fast Ruby Blog' do
   describe 'tests' do
-    let(:post) { '/rails/upgrades/case-study/upgrading-a-monolith.html' }
-    let(:file_path) { "_site/#{post}" }
-    let(:url) { "https://fastruby.io/blog#{post}" }
+    let(:post) { '/2019-best-tech-startups-in-philadelphia-89e98ec7e4f1.html' }
+    let(:file_path) { "_site#{post}" }
+    let(:url) { "https://etagwerker.com#{post}" }
 
     before do
       unless File.exists?(file_path)
@@ -24,10 +24,10 @@ RSpec.describe 'Fast Ruby Blog' do
         r[e['name']] = e['content'] ; r
       end
       expect(data['twitter:card']).to eq 'summary'
-      expect(data['twitter:site']).to eq '@fastrubyio'
+      expect(data['twitter:site']).to eq '@etagwerker'
       expect(data['twitter:title']).to eq 'Upgrading a Huge Monolith From Rails 4.0 to Rails 5.1 - Ruby on Rails Upgrades'
       expect(data['twitter:description']).to start_with('We recently collaborated with Power Home Remodeling on a Rails upgrade')
-      expect(data['twitter:image:src']).to eq 'https://fastruby.io/blog/assets/images/profile.png'
+      expect(data['twitter:image:src']).to eq 'https://etagwerker.com/assets/images/profile.png'
     end
 
     it 'generates share button for twitter' do
@@ -42,12 +42,12 @@ RSpec.describe 'Fast Ruby Blog' do
       expect(links.size).to eq 2
       expect(links[0].to_h).to eq({
         'type' => 'application/atom+xml',
-        'href' => 'https://fastruby.io/blog/rss.xml',
+        'href' => 'https://etagwerker.com/rss.xml',
         'rel' => 'self'
       })
       expect(links[1].to_h).to eq({
         'type' => 'text/html',
-        'href' => 'https://fastruby.io/blog/',
+        'href' => 'https://etagwerker.com/',
         'rel' => 'alternate'
       }, )
     end
