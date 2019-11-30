@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.license     = "MIT"
 
   s.add_dependency('rake', '~> 12.3')
+  s.add_dependency('minima')
   s.add_dependency('jekyll', '~> 3.7.4')
   s.add_dependency('jekyll-categories')
   s.add_dependency('jekyll-authors')
