@@ -10,12 +10,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency('rake', '~> 12.3')
   s.add_dependency('minima')
-  s.add_dependency('jekyll', '~> 3.7.4')
-  s.add_dependency('jekyll-categories')
-  s.add_dependency('jekyll-authors')
-  s.add_dependency('jekyll-titleize')
-  s.add_dependency('jekyll-paginate')
-  s.add_dependency('jekyll-feed')
+  s.add_dependency('jekyll', '~> 4.0.0')
   s.add_dependency('sitemap_generator')
   s.add_dependency('dotenv')
   s.add_dependency('rspec')
