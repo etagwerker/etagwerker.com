@@ -1,5 +1,5 @@
 ---
-title: If you don’t know where you are...
+title: If you don't know where you are...
 description: ...any direction is the right direction.
 date: '2016-04-21T01:34:52.161Z'
 categories: []
@@ -9,15 +9,17 @@ slug: /if-you-don-t-where-you-are-48a726a33c56
 
 ...**any direction is the right direction**.
 
-I once had a professor that always said that. It’s not something new, but it’s always been in my mind.
+I once had a professor that always said that. It's not something new, but it's always been in my mind.
+
+<!--more-->
 
 As entrepreneurs and product managers, this should be on our minds everyday.
 
-It’s definitely related to [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)’s quote:
+It's definitely related to [Peter Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)'s quote:
 
 > What gets measured gets improved.
 
-If you want your product to grow, you need to keep track of key metrics. Some people know these metrics as _key performance indicators_. It’s the same thing.
+If you want your product to grow, you need to keep track of key metrics. Some people know these metrics as _key performance indicators_. It's the same thing.
 
 These metrics give us our location in a map. We can only move in the right direction once we know them. We can only make informed decisions once we have some data about our key metrics.
 
@@ -33,4 +35,4 @@ You will always have a conversion funnel and it should guide your product decisi
 
 Next time you think about changing something in your product, look at your funnel. **Is that decision going to improve your conversion funnel?**
 
-If you don’t have metrics for your funnel, you must set them up today. Until you do, every change, every feature, every experiment will be a _shot in the dark_.
+If you don't have metrics for your funnel, you must set them up today. Until you do, every change, every feature, every experiment will be a _shot in the dark_.

@@ -13,6 +13,8 @@ Lately I’ve been evaluating and interviewing quite a lot of candidates for the
 
 Here is what I’ve learned in the process.
 
+<!--more-->
+
 #### Process
 
 In a software consulting business like mine, you must have a **clear process** to _evaluate_ candidates. The people in your company have to be well aware of what you are looking for in each candidate.

@@ -1,5 +1,5 @@
 ---
-title: If you’re not comfortable
+title: If you're not comfortable
 description: You need to change
 date: '2016-05-09T21:12:50.202Z'
 categories: []
@@ -13,7 +13,7 @@ Now try to hack some code in a loud environment with an unreliable Internet conn
 
 Now try working in an environment where your boss is an **asshole** and you work long hours. Waking up early in the morning will be harder than if you were in a nice environment, with a boss that you respect and who respects you.
 
-Don’t **expect** your environment to **change**. Don’t count on it.
+Don't **expect** your environment to **change**. Don't count on it.
 
 If you want change **make it happen**. **Change** your environment or look for a **new** environment.
 

@@ -12,6 +12,8 @@ slug: /from-idea-to-mvp-6a1844992749
 If you have an idea and you want to build an MVP, you should be able to build
 it in less than a month.
 
+<!--more-->
+
 In the simplest case, you will build a landing page to show your unique value
 proposition and you will collect email addresses of people who might be
 interested.

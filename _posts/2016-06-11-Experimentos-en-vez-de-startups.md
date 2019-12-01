@@ -15,6 +15,8 @@ Cuando Juan le muestra el producto a sus amigos, **ninguno** lo usa. A **ninguno
 
 **3 meses tirados a la basura.**
 
+<!--more-->
+
 Hay muchas **ideas** que son **geniales**, pero **no todas son buenos negocios**.
 
 Un negocio es un conjunto de hipótesis sin validación. ¿Cuál es _la mejor forma de validarlas_?

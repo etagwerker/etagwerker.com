@@ -15,6 +15,8 @@ I first heard of this concept in the last Rubyconf Argentina. It was one of the 
 
 > People who suffer this are high-achieving individuals marked by an inability to internalize their accomplishments and a persistent fear of being exposed **as a fraud.**
 
+<!--more-->
+
 You can read more about this [here](https://en.m.wikipedia.org/wiki/Impostor_syndrome).
 
 What has been really helpful to me is to always ask myself this question: What’s the worst thing that can happen?

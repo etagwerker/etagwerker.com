@@ -1,7 +1,7 @@
 ---
 title: You are not entitled to anything
 description: >-
-  Just because you are you it doesn’t mean that you are entitled to something.
+  Just because you are you it doesn't mean that you are entitled to something.
   This is the truth, especially if you are starting a new...
 date: '2016-04-26T00:37:34.610Z'
 categories: []
@@ -9,11 +9,13 @@ keywords: []
 slug: /you-are-not-entitled-to-anything-cabea36046c5
 ---
 
-Just because _you are you_ it doesn’t mean that you are entitled to something. This is the truth, especially if you are starting a new business.
+Just because _you are you_ it doesn't mean that you are entitled to something. This is the truth, especially if you are starting a new business.
 
-Just because **you** released a product, it doesn’t mean that **people** are going to use it.
+Just because **you** released a product, it doesn't mean that **people** are going to use it.
 
-Just because **you** published an article, it doesn’t mean that **readers** are going to read it, like it, and share it.
+<!--more-->
+
+Just because **you** published an article, it doesn't mean that **readers** are going to read it, like it, and share it.
 
 These days I grow tired of people complaining about the things that _they think they deserve_.
 

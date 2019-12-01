@@ -13,7 +13,9 @@ I am hooked. Recently my commute has become a great opportunity to listen to my 
 
 I wonder if we would have [Twitter](http://twitter.com) today if Odeo had started after [Serial](https://serialpodcast.org/season-one). Probably not!
 
-Podcasts have been around for ages, but only in the recent years they’ve become mainstream.
+<!--more-->
+
+Podcasts have been around for ages, but only in the recent years they've become mainstream.
 
 Here are some of my favorite podcasts.
 
@@ -23,7 +25,7 @@ Fizzle is a community but also a podcast. I became part of the community after m
 
 They talk about business, indie entrepreneurs, products, services and a bunch of things that are super interesting for entrepreneurs and wantrepreneurs.
 
-You should check it out if you’re one of those.
+You should check it out if you're one of those.
 
 ### Planet Money
 
@@ -35,12 +37,12 @@ I really like their episodes because they are short and sweet. Sometimes too sho
 
 Without even noticing I became hooked to the weekly updates about the democratic and republican primaries.
 
-I can’t stop listening to the episodes about the race for the nominations. If you’re interested in politics in the US, you will love this show!
+I can't stop listening to the episodes about the race for the nominations. If you're interested in politics in the US, you will love this show!
 
 ### Note to Self
 
 This is a great podcast about life and technology. It goes deep into finding out how technology is changing our lives.
 
-These are some of my favorites. I’ll share the rest some other day.
+These are some of my favorites. I'll share the rest some other day.
 
-I’m also open to new recommendations. So, if you have any, let me know!
+I'm also open to new recommendations. So, if you have any, let me know!

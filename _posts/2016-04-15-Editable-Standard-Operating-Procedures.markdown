@@ -11,7 +11,9 @@ slug: /editable-standard-operating-procedures-74a7311d1ec3
 
 If you want [Standard Operating Procedures](https://en.wikipedia.org/wiki/Standard_operating_procedure) (SOPs) to be current, you need to make them easy to read, create and edit.
 
-I hate it when these documents become outdated. That’s why I love to use wikis to create them. At [Ombu Labs](https://www.ombulabs.com) we currently use a [Github Wiki](https://help.github.com/articles/about-github-wikis/) to keep our Standard Operating Procedures up to date.
+<!--more-->
+
+I hate it when these documents become outdated. That's why I love to use wikis to create them. At [Ombu Labs](https://www.ombulabs.com) we currently use a [Github Wiki](https://help.github.com/articles/about-github-wikis/) to keep our Standard Operating Procedures up to date.
 
 Next time you need to perform a repeatable task, you can ask someone else to follow the steps in the SOP.
 

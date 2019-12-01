@@ -11,6 +11,8 @@ slug: /taxis-disrupted-824a69297d42
 
 Taxis have been doing the same thing for years. Pick up a passenger, hear the destination, take the passenger there, get paid. It’s pretty simple and it hasn’t evolved much in decades.
 
+<!--more-->
+
 ![Taxis in Buenos Aires are transit’s public enemy number 1](https://cdn-images-1.medium.com/max/800/1*LXosh5_4JAtrJSViammElw.jpeg)
 Taxis in Buenos Aires are transit’s public enemy number 1
 

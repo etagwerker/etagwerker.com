@@ -13,6 +13,8 @@ En 2012, con [OmbuShop, Tu Tienda Online](http://www.ombushop.com/), participamo
 
 Estos son algunos consejos fundamentales para todos los emprendedores de las nuevas rondas de [Startup Chile](http://startupchile.org/).
 
+<!--more-->
+
 **Esta es tu guía para los seis meses en Chile**.
 
 El objetivo es encontrar un modelo de negocios que funcione, que esté validado, que sea escalable y que termine generando ingresos al final del programa.

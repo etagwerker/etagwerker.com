@@ -9,6 +9,8 @@ slug: /5-rules-to-build-a-software-mvp-a3bc1cf79e15
 
 I’m tired of saying that [your MVP is not small enough](https://medium.com/@etagwerker/your-mvp-is-not-small-enough-c64759a88554#.tl91gc9bf). Here are five simple rules to build a **software MVP**.
 
+<!--more-->
+
 #### Rule #1
 
 **Quality** is **non-negotiable**. Quality **must** remain high. You cannot build something that has _poor_ quality.

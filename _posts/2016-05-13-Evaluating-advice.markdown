@@ -1,15 +1,17 @@
 ---
-title: Evaluating advice
-description: 'Before you take someone’s advice, think about their experience.'
+title: "Evaluating Advice"
+description: "Before you take someone's advice, think about their experience."
 date: '2016-05-13T00:13:52.855Z'
 categories: []
 keywords: []
 slug: /evaluating-advice-34ba151e5325
 ---
 
-As an entrepreneur, I’ve heard a lot of advice from potential investors, investors, partners, clients, friends, family, acquaintances, random people at a party. You name it. I have received **advice from everyone**.
+As an entrepreneur, I've heard a lot of advice from potential investors, investors, partners, clients, friends, family, acquaintances, random people at a party. You name it. I have received **advice from everyone**.
 
 Only a few times I have actually **acted** based on their advice. Most times I will hear it, nod and later **ignore** the advice.
+
+<!--more-->
 
 The hardest part is **ignoring the advice** from someone you really care about.
 

@@ -11,6 +11,8 @@ I’ve been writing every weekday for **more than a month**. This was a small an
 
 To be honest, I feel like I’ve been producing a **large** **quantity** of content with **little quality.**
 
+<!--more-->
+
 I’m not a big fan of this. I’ve always preferred to release _a few quality products vs. a large quantity of mediocre products._
 
 From now on I’ll bring it down to **two** posts per week. Hopefully this will give me more time to work on my drafts and create better content.

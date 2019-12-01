@@ -11,6 +11,8 @@ slug: /postponing-a-decision-2911934f2b92
 
 Every time you need to **make a decision**, there is always **a default**.
 
+<!--more-->
+
 For example: When you’re interviewing someone for a position, the default is a “_No_”.
 
 If you postpone your decision, the candidate will understand that you are _not_ going to hire her.

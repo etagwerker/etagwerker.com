@@ -17,4 +17,4 @@ If you keep doing it for an extended period of time, it will **burn you out**.
 
 You need the night to rest, to recover from a intense day, so that you can go back to work the next day with the same intensity.
 
-What’s most important, **you need limitations**. If you only have 8 hours per day, you will be forced to prioritize the items in your TODO list. Limitations drive creativity.
+What's most important, **you need limitations**. If you only have 8 hours per day, you will be forced to prioritize the items in your TODO list. Limitations drive creativity.

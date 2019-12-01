@@ -11,6 +11,8 @@ slug: /i-dont-know-yet-a89a51c4469a
 
 Some people will say “I don’t know” and expect you to tell them the answer. If you tell them the answer right away, they will probably keep asking you similar questions.
 
+<!--more-->
+
 Next time you are in this situation try to guide the person to the best solution. Explore the different alternatives and mention the pros and cons of the different solutions. Let them make decisions, let them make mistakes.
 
 If you are stuck with a problem and you don’t know how to move on, remember:

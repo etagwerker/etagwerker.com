@@ -9,11 +9,13 @@ slug: /a-great-source-of-startup-ideas-6d34ac3d88bd
 
 I hate bureaucracy. I believe **we all hate bureaucracy**. I probably hate it even more than you, because I am an Information Systems Engineer.
 
-I’ve been taught to look at systems and think of ways to improve them. And let me tell you, **there is so much that can be improved in terms of bureaucracy**.
+I've been taught to look at systems and think of ways to improve them. And let me tell you, **there is so much that can be improved in terms of bureaucracy**.
 
-Every time I’m at the bank, I think about the different ways that they could improve the **customer experience**.
+<!--more-->
 
-Every time I’m at the [AFIP](http://afip.gov.ar/) (the Argentine [IRS](https://www.irs.gov/)), I think about the many ways that they could **simplify** their processes to get more people to pay their taxes.
+Every time I'm at the bank, I think about the different ways that they could improve the **customer experience**.
+
+Every time I'm at the [AFIP](http://afip.gov.ar/) (the Argentine [IRS](https://www.irs.gov/)), I think about the many ways that they could **simplify** their processes to get more people to pay their taxes.
 
 I believe that the best systems provide **good experiences**, which encourage and guide the people who use them.
 

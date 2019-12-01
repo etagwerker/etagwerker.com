@@ -9,6 +9,8 @@ slug: /streaks-part-2-a0db91352fe8
 
 Today I broke one of my latest **streaks**. Today I **didn’t** [contribute to any **open source** projects](https://github.com/etagwerker) and I broke a **35** days straight streak.
 
+<!--more-->
+
 It was a _bit_ disappointing but it was also a great run. I made at least one (sometimes very small) contribution every day for the past **35 days!**
 
 To be honest, this happened because I decided to stop bringing my MacBook home. And I have **no regrets**. I’m much happier having less distractions at home.
