@@ -6,14 +6,8 @@ meta:
   description: "Articles about Software Development, Performance and Ruby and Rails Upgrades by @etagwerker"
 ---
 
-<main id="content" class="content col-xs-12 order-xs-2 col-md-8" role="main">
-  <div class="extra-pagination inner">
-    {%- include pagination.html -%}
-  </div>
+{%- for post in paginator.posts -%}
+  {%- include post_excerpt.html -%}
+{%- endfor -%}
 
-  {%- for post in paginator.posts -%}
-    {%- include post_excerpt.html -%}
-  {%- endfor -%}
-
-  {%- include pagination.html -%}
-</main>
+{%- include pagination.html -%}
