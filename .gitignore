@@ -1,7 +1,7 @@
-.byebug_history
-.ruby-version
-.sass-cache
-.bundle
-.DS_Store
 _site
-.env
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+public
