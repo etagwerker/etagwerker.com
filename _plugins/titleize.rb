@@ -3,7 +3,7 @@ require "titleize"
 module Jekyll
   module TitleizeFilter
     def titleize(input)
-      input.titleize
+      input.to_s.titleize
     end
   end
 end
