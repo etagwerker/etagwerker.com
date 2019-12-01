@@ -1,13 +1,13 @@
   <article class="post">
     <div class="post-header">
-      <h1>
+      <h2 class="post-title">
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h1>
-      <div class="date-info">
+      </h2>
+      <span class="post-date">
         <time datetime="{{ post.date | date:'%Y-%m-%d' }}">
           Created at: {{ post.date | date: '%B %-d, %Y' }}
         </time>
-      </div>
+      </span>
     </div>
     <div class="post-meta">
       {%- include post_meta.html -%}
