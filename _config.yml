@@ -1,8 +1,7 @@
 name: Pivot or Persevere
-description: Articles by Ernesto Tagwerker
+description: "@etagwerker blogs"
 meta_description: "Random rants about random stuff"
-
-markdown: redcarpet
+destination: ./public
 highlighter: pygments
 logo: true
 paginate: 15
@@ -20,20 +19,10 @@ feed:
   path: rss.xml
 
 exclude: [vendor]
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
+gems: ['jekyll-titleize', 'jekyll-paginate', 'jekyll-feed']
 
 sass:
   style: compressed
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      is_post: true
 
 authors:
   etagwerker:
@@ -42,5 +31,3 @@ authors:
     email: ernesto@ombulabs.com
     twitter: etagwerker
     github: etagwerker
-
-theme: minima
