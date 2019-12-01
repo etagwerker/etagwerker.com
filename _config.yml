@@ -17,9 +17,15 @@ url:            'https://etagwerker.com'
 author:         '@etagwerker'
 feed:
   path: rss.xml
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"
 
 exclude: [vendor]
-gems: ['jekyll-titleize', 'jekyll-paginate', 'jekyll-feed']
+plugins: ['jekyll-titleize', 'jekyll-paginate', 'jekyll-feed']
 
 sass:
   style: compressed
