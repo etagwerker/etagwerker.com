@@ -6,8 +6,10 @@ meta:
   description: "Articles about Software Development, Performance and Ruby and Rails Upgrades by @etagwerker"
 ---
 
+<section class="posts">
 {%- for post in paginator.posts -%}
   {%- include post_excerpt.html -%}
 {%- endfor -%}
+</section>
 
 {%- include pagination.html -%}
