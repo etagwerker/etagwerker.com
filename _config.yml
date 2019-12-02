@@ -4,7 +4,7 @@ meta_description: "Random rants about random stuff"
 destination: ./public
 highlighter: pygments
 logo: true
-paginate: 15
+paginate: 3
 domain_name: 'https://etagwerker'
 permalink: none
 category_dir: 'tags'
