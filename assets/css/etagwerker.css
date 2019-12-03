@@ -23,6 +23,15 @@ article.post h1 {
   font-weight: normal;
 }
 
+.post p.centered {
+  width: 100%;
+  text-align: center;
+}
+
+p.centered img {
+  display: inline-block;
+}
+
 footer {
   width: 100%;
   text-align: center;
@@ -76,4 +85,5 @@ img.three-quarter {
   .post h1.post-title {
     font-size: 1.67rem;
   }
+
 }
