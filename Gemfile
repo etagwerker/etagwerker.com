@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem "jekyll-titleize"
   gem "jekyll-paginate"
   gem "jekyll-feed"
+  gem "jekyll-compose"
 end
 
 group :development do
