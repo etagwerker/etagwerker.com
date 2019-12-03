@@ -1,0 +1,79 @@
+body {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+h2.post-title {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+  font-weight: bold;
+  line-height: 1.25;
+  color: #313131;
+  text-rendering: optimizeLegibility;
+}
+
+.theme-base-08 .content h2 a {
+  color: #313131;
+}
+
+.sidebar-about h1 {
+  font-size: 2rem;
+}
+
+article.post h1 {
+  font-weight: normal;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  font-size: 0.67rem;
+}
+
+img.half {
+  max-width: 50%;
+}
+
+img.three-quarter {
+  max-width: 75%;
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 19rem;
+  }
+}
+
+@media (max-width: 30em) {
+  .sidebar {
+    padding: 0;
+    padding-top: 1rem;
+  }
+  .sidebar p.lead {
+    display: none;
+  }
+
+  .sidebar-nav {
+    display: inline-block;
+  }
+
+  .sidebar-nav a {
+    float: left;
+    padding-right: 1em;
+  }
+
+  .content.container {
+    padding-top: 1rem;
+  }
+
+  section.posts h2.post-title {
+    font-size: 1.5rem;
+  }
+
+  section.posts .post-date time {
+    font-size: 1rem;
+  }
+
+  .post h1.post-title {
+    font-size: 1.67rem;
+  }
+}
