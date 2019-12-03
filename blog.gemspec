@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   s.add_dependency('dotenv')
   s.add_dependency('rspec')
 
-  s.add_dependency('pygments.rb')
+  s.add_dependency('rouge')
   s.add_dependency('redcarpet')
 end

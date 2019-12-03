@@ -2,7 +2,7 @@ name: Pivot or Persevere
 description: "@etagwerker blogs"
 meta_description: "Random rants about random stuff"
 destination: ./public
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 3
 domain_name: 'https://etagwerker'
