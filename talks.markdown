@@ -13,6 +13,15 @@ I like to speak about things that I'm passionate about:
 I've spoken at a few conferences in different countries (Argentina; Uruguay;
 Chile; and USA) in both Spanish and English.
 
+## Escaping The Tar Pit (RubyConf, 2019)
+
+This is version 2.1 of the talk I presented at SolidusConf. There are a few
+improvements to `skunk` which made it to this talk. The StinkScore formula
+changed to more accurately represent improvements to your code base:
+[https://github.com/fastruby/skunk](https://github.com/fastruby/skunk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZyU6K6eR-_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Escaping The Tar Pit (SolidusConf, 2019)
 
 In this talk I explain how to avoid getting stuck in the tar pit and, if you
@@ -22,7 +31,24 @@ a new library to judge maintainability based on code quality and code coverage:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/am-oVaAkDNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Upgrade Rails 101: The Roadmap to Smooth Upgrades (Southeast Ruby, 2019)
+
+This is version 2.1 of the workshop I conducted at RailsConf. In this iteration
+I decide to use Docker to make it easier to get things set up. This proved to
+be a great decision as it decreased setup issues to 0%. Setting things up took
+about 10 minutes, but it was smooth sailing after that.
+
+## Upgrade Rails 101: The Roadmap to Smooth Upgrades (RailsConf, 2019)
+
+In this workshop I present a few simple steps to upgrade your Rails application.
+Unfortunately there is no recording of this workshop, but you can find a
+companion page over here: [https://www.fastruby.io/upgrade](https://www.fastruby.io/upgrade)
+
 ## Open Source: When Nights & Weekends Are Not Enough (Southeast Ruby, 2017)
+
+In this talk I share my experience as an open source contributor and maintainer
+after becoming a father. I share a few great ways to bake in open source
+contributions in your day-to-day:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MOJoF7sPVdM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
