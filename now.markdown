@@ -4,19 +4,12 @@ title: Now
 permalink: /now/
 ---
 
-I'm currently working on sales; business development; marketing; open source; and
-leadership at [FastRuby.io](https://fastruby.io) and [Ombu Labs](https://ombulabs.com).
-Yes, I know, I'm wearing a lot of hats in my business.
+I'm currently working on scaling [FastRuby.io](https://fastruby.io) and [OmbuLabs](https://ombulabs.com). I'm still trying to get better at delegating roles and responsibilities.
 
-Related to that, I'm trying to get better at delegating roles and responsibilities.
-My last hire was a Senior Agile Project Manager, which has been a life-changing
-experience.
+My last hires were a Senior Engineering Manager, a Biz Dev Coordinator, and a Marketing Coordinator. Scaling is tough, but so much fun!
 
-I'm also trying to speak at more conferences and to participate in more podcasts.
-2019 was a great year in that sense, I was honored to speak at a couple of
-great conferences:
+I'm also excited to speak at RailsConf once again. I'll be presenting a
+[workshop on Rails upgrades with my co-workers](https://railsconf.com/program/workshops#session-1288)!
 
-- RubyConf
-- SolidusConf
-- Southeast Ruby
-- RailsConf
+If you are looking for your next gig as a [Ruby on Rails Engineer](https://www.ombulabs.com/jobs/software-engineer?utm_source=etagwerker.com) or
+[React.js Engineer](https://www.ombulabs.com/jobs/react-software-engineer?utm_source=etagwerker.com), feel free to DM me on Twitter.
