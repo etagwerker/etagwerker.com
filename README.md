@@ -1,12 +1,12 @@
-# Fast Ruby Blog
+# Ernesto's Personal Blog
 
-Blog for the Fast Ruby using Jekyll as the blog-engine.
+Blog for [etagwerker.com](https://etagwerker.com) using Jekyll as the blog engine.
 
 ## Installation
 
 To get the blog up and running in a local environment, follow the steps below:
 
-1. Clone the repository: `git clone git@github.com:fastruby/blog.git`
+1. Clone the repository: `git clone git@github.com:etagwerker/etagwerker.com.git`
 2. Setup `.ruby-version` if you're using RVM.
 3. Run `bundle install` to install Jekyll and other dependencies.
 4. Start the blog by running `bundle exec jekyll serve`.
