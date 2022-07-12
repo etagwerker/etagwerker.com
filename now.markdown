@@ -4,12 +4,8 @@ title: Now
 permalink: /now/
 ---
 
-I'm currently working on scaling [FastRuby.io](https://fastruby.io) and [OmbuLabs](https://ombulabs.com). I'm still trying to get better at delegating roles and responsibilities.
+I'm currently on vacation in Spain visiting family and friends! 
 
-My last hires were a Senior Engineering Manager, a Biz Dev Coordinator, and a Marketing Coordinator. Scaling is tough, but so much fun!
+When I get back to work I plan to continue scaling [FastRuby.io](https://fastruby.io) and [OmbuLabs](https://ombulabs.com). We recently launched a new audit service for your Ruby applications, it's called [Tune Report](https://www.fastruby.io/tune)! We partnered with my friend [Nate](https://twitter.com/nateberkopec) to help companies scale their Ruby applications. 
 
-I'm also excited to speak at RailsConf once again. I'll be presenting a
-[workshop on Rails upgrades with my co-workers](https://railsconf.com/program/workshops#session-1288)!
-
-If you are looking for your next gig as a [Ruby on Rails Engineer](https://www.ombulabs.com/jobs/software-engineer?utm_source=etagwerker.com) or
-[React.js Engineer](https://www.ombulabs.com/jobs/react-software-engineer?utm_source=etagwerker.com), feel free to DM me on Twitter.
+If you are looking for your next gig check out our job openings: [https://www.ombulabs.com/jobs](https://www.ombulabs.com/jobs?utm_source=etagwerker.com)
