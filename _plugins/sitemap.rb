@@ -1,25 +1,22 @@
 require "sitemap_generator"
 
 Jekyll::Hooks.register :site, :post_write do |site|
-  unless site.config["watch"]
-    puts "Generating sitemap.xml.gz"
+  puts "Generating sitemap.xml"
 
-    files = []
-    Dir["_site/**/*.html"].each do |page|
-      files << File.new(page)
+  dest = site.dest
+
+  files = Dir["#{dest}/**/*.html"]
+
+  # Always generate absolute URLs using the canonical HTTPS domain
+  SitemapGenerator::Sitemap.default_host = "https://etagwerker.com"
+  SitemapGenerator::Sitemap.public_path = dest
+  SitemapGenerator::Sitemap.create compress: false do
+    files.each do |file|
+      add file.sub(/^#{Regexp.escape(dest)}/, ""), changefreq: "weekly"
     end
-
-    SitemapGenerator::Sitemap.default_host = site.config["url"]
-    public_path = Dir.pwd.end_with?("blog") ? "_site" : "public/blog"
-    SitemapGenerator::Sitemap.public_path = public_path
-    SitemapGenerator::Sitemap.create compress: false do
-      files.each do |file|
-        add file.path.sub(/^_site/,""), changefreq: "weekly"
-      end
-    end
-
-    puts "Generated sitemap.xml.gz"
   end
+
+  puts "Generated sitemap.xml"
 
   puts "All done!"
 end
