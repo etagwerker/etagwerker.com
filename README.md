@@ -39,4 +39,4 @@ To edit a post, simply edit the content for one of the markdown files and the HT
 
 ## Deleting a post
 
-To delete a post, you can unpublish it by setting a `published` flag under the post's YAML variables, see: http://jekyllrb.com/docs/frontmatter/
+To delete a post, you can unpublish it by setting a `published` flag under the post's YAML variables, see: https://jekyllrb.com/docs/frontmatter/
