@@ -1,6 +1,6 @@
-name: Pivot or Persevere
-description: "@etagwerker blogs"
-meta_description: "Random rants about random stuff"
+name: "Ernesto Tagwerker: Founder & CTO at OmbuLabs.ai"
+description: "Founder & CTO at OmbuLabs.ai, building custom AI solutions and helping companies upgrade their Ruby and Rails applications."
+meta_description: "Articles about software development, AI, Ruby on Rails upgrades, and building sustainable software businesses by Ernesto Tagwerker, Founder & CTO at OmbuLabs.ai."
 destination: ./public
 highlighter: rouge
 logo: true
