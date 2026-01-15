@@ -3,8 +3,8 @@ layout: post
 title: "Improving My Jekyll Site with Claude Code"
 description: "How I used Claude Code to fix SEO issues, add Google Analytics 4, and set up GitHub Actions for my personal website in a single session."
 date: 2026-01-15
-categories: [ai, development]
-keywords: [claude code, jekyll, seo, github actions, ai pair programming]
+categories: [ai]
+keywords: [claude code, jekyll, github actions, pair programming]
 slug: improving-my-jekyll-site-with-claude-code
 ---
 
@@ -104,3 +104,5 @@ The entire session took about an hour, and we made 7 commits addressing issues t
 AI-assisted development tools like Claude Code are changing how we approach routine maintenance and improvements. Tasks that might have taken a full afternoon of context-switching between documentation, Stack Overflow, and code editors can now be completed in a focused conversation.
 
 If you're curious about Claude Code, check it out at [claude.com/claude-code](https://claude.com/claude-code).
+
+If you're [curious about AI and how it can help your engineering organization, contact OmbuLabs.ai](https://www.ombulabs.ai)!
