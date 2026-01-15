@@ -14,6 +14,37 @@
     {% endif %}
   </title>
 
+  <!-- Meta Description -->
+  {% if page.description %}
+    <meta name="description" content="{{ page.description | strip_html | truncate: 160 }}">
+  {% elsif site.meta_description %}
+    <meta name="description" content="{{ site.meta_description }}">
+  {% endif %}
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  {% if page.description %}
+    <meta property="og:description" content="{{ page.description | strip_html | truncate: 200 }}">
+  {% elsif site.meta_description %}
+    <meta property="og:description" content="{{ site.meta_description }}">
+  {% endif %}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="{{ site.author }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+  {% if page.description %}
+    <meta name="twitter:description" content="{{ page.description | strip_html | truncate: 200 }}">
+  {% elsif site.meta_description %}
+    <meta name="twitter:description" content="{{ site.meta_description }}">
+  {% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="/assets/css/poole.css">
   <link rel="stylesheet" href="/assets/css/syntax.css">
