@@ -22,6 +22,10 @@ Jason and I explored how AI can facilitate Rails framework upgrades, using AI as
 
 I talked about my work in Ruby on Rails upgrades and AI solutions, technical debt management, and developer onboarding strategies: [Rails Business](https://www.railsbusiness.com/2435951/episodes/17440055-ernesto-tagwerker)
 
+## Code and the Coding Coders who Code it (Episode #10)
+
+I joined Drew Bragg to discuss FastRuby.io's Tune audit, open source projects, how the team balances educating the community on Rails upgrades while making it the main business, and strategies to onboard junior developers: [Code and the Coding Coders who Code it](https://podcast.drbragg.dev/episodes/episode-10-ernesto-tagwerker/)
+
 ## IndieRails (Episode #9)
 
 In this earlier episode, I discussed my entrepreneurial journey from freelancing to founding an agency, managing distributed international teams, and developing productized service offerings: [IndieRails](https://www.indierails.com/9)
