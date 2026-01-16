@@ -60,6 +60,12 @@ I decide to use Docker to make it easier to get things set up. This proved to
 be a great decision as it decreased setup issues to 0%. Setting things up took
 about 10 minutes, but it was smooth sailing after that.
 
+## Upgrade Rails 101: The Roadmap to Smooth Upgrades (Online Workshop, 2021)
+
+Upgrading Rails is easy, right? Sure, as long as you are upgrading your patch version. A Rails upgrade for a big application is not a trivial project: it took GitHub a year and a half to upgrade from Rails 3.2 to 5.2. While upgrades have become easier with every new Rails version, your application has only become more complicated with every new dependency added to it. Running bundle update is not enough. In this workshop you will learn a proven Rails upgrade process for major and minor version changes of Rails. You will leave this workshop with a roadmap to upgrade your Rails application.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sid39aN_SKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Upgrade Rails 101: The Roadmap to Smooth Upgrades (RailsConf, 2019)
 
 In this workshop I present a few simple steps to upgrade your Rails application.
