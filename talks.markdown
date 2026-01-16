@@ -11,7 +11,29 @@ I like to speak about things that I'm passionate about:
 - Ruby & Ruby on Rails
 
 I've spoken at a few conferences in different countries (Argentina; Uruguay;
-Chile; and USA) in both Spanish and English.
+Chile; Australia; and USA) in both Spanish and English.
+
+## Stuck in the Tar Pit (Sin City Ruby, 2024)
+
+Nobody wants to inherit a project that reeks but here we are: Stuck in the tar pit. How can we get out? Could we have avoided it in the first place? In this talk you will learn how to use a few great Ruby gems that will guide you out of that sticky tar you are in. This version includes new resources, including a paper from Google called "Defining, Measuring, and Managing Technical Debt". (This talk was not recorded.)
+
+## Here Be Dragons: The Hidden Gems of Tech Debt (RubyConf Mini, 2022)
+
+How do you find the most unmaintainable code in your codebase? What will you prioritize in your next technical debt spike, and why? In this talk you will learn how you can use RubyCritic, SimpleCov, Flog, Reek, and Skunk to slay dragons in your next refactoring adventure. Find out how the relationship between churn, complexity, and code coverage can give you a common language to talk about code quality:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcmbYece0Q0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## RubyMem: The Leaky Gems Database for Bundler (RubyKaigi Takeout, 2020)
+
+Out of memory errors are quite tricky. Our first reaction is always the same: "It can't be my code, it must be one of my dependencies!" What if you could quickly check that with bundler? In this talk you will learn about memory leaks, out of memory errors, and leaky dependencies. You will learn how to use bundler-leak, a community-driven, open source tool that will make your life easier when debugging memory leaks:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghaA6LD5OEo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Escaping The Tar Pit (RubyConf AU, 2020)
+
+In this talk you will learn how to use a few great Ruby gems that will guide you out of technical debt. I introduce the StinkScore metric, which combines code smells, complexity, and code coverage to help you identify the most problematic areas of your codebase. Thanks to [FastRuby.io](https://www.fastruby.io) for sponsoring my trip to Melbourne:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ORb2UQ0_8zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Escaping The Tar Pit (RubyConf, 2019)
 
