@@ -12,7 +12,7 @@ In this episode I discussed how technical debt affects software teams and why it
 
 ## IndieRails (Episode #69)
 
-I returned to IndieRails to discuss how AI is reshaping software development, leveraging language models for Rails upgrades, OmbuLabs' fixed-cost maintenance service Bonsai, and how developers can maintain strong coding practices while adopting AI tools: [IndieRails](https://www.indierails.com/69)
+I returned to IndieRails to discuss how AI is reshaping software development, leveraging language models for Rails upgrades, [OmbuLabs.ai](https://www.ombulabs.ai)'s fixed-cost maintenance service Bonsai, and how developers can maintain strong coding practices while adopting AI tools: [IndieRails](https://www.indierails.com/69)
 
 ## Code with Jason (Episode #298)
 

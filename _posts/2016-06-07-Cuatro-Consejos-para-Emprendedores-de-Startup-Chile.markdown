@@ -45,7 +45,7 @@ Antes de empezar a construir una solución en base a hipótesis incorrectas, pue
 
 [¿Qué es un experimento?](http://www.etagwerker.com/lean-startup/experimentos-en-vez-de-startups.html)
 
-Puede ser un video, una imagen, un cartel, una reunión, [una página de bienvenida](https://www.ombulabs.com/blog/lean-startup/mvp/the-landing-page-mvp.html), un [_smoke test_](http://www.freemium.org/smoke-test/), una serie de mockups.
+Puede ser un video, una imagen, un cartel, una reunión, [una página de bienvenida](https://www.ombulabs.ai/blog/lean-startup/mvp/the-landing-page-mvp.html), un [_smoke test_](http://www.freemium.org/smoke-test/), una serie de mockups.
 
 Es lo mínimo indispensable para **validar** o **invalidar** una hipótesis.
 

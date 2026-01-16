@@ -23,7 +23,7 @@ You might read that and think that I'm just lazy, that I don't want to put in th
 
 I have spent many years building different products for a variety of entrepreneurs and even my own products.
 
-That's what we do at [Ombu Labs](https://www.ombulabs.com). I like working with **entrepreneurs**, that's why 100% of our clients are **startups** (funded, bootstrapped, and some of them even profitable)
+That's what we do at [OmbuLabs.ai](https://www.ombulabs.ai). I like working with **entrepreneurs**, that's why 100% of our clients are **startups** (funded, bootstrapped, and some of them even profitable)
 
 Every time I meet an **entrepreneur** who wants to work with us I like to talk about the [Lean Startup](http://theleanstartup.com/) methodology, [Lean Canvas](https://leanstack.com/lean-canvas/), and building an MVP.
 

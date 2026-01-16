@@ -13,7 +13,7 @@ If you want [Standard Operating Procedures](https://en.wikipedia.org/wiki/Standa
 
 <!--more-->
 
-I hate it when these documents become outdated. That's why I love to use wikis to create them. At [Ombu Labs](https://www.ombulabs.com) we currently use a [Github Wiki](https://help.github.com/articles/about-github-wikis/) to keep our Standard Operating Procedures up to date.
+I hate it when these documents become outdated. That's why I love to use wikis to create them. At [OmbuLabs.ai](https://www.ombulabs.ai) we currently use a [Github Wiki](https://help.github.com/articles/about-github-wikis/) to keep our Standard Operating Procedures up to date.
 
 Next time you need to perform a repeatable task, you can ask someone else to follow the steps in the SOP.
 

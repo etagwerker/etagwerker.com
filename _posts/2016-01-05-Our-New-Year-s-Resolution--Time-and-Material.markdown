@@ -4,7 +4,7 @@ date: '2016-01-05T14:33:22.812Z'
 slug: /our-new-year-s-resolution-time-and-material-698219394631
 ---
 
-_(This post was originally published in the [Ombu Labs Blog](https://www.ombulabs.com/blog))_
+_(This post was originally published in the [OmbuLabs.ai Blog](https://www.ombulabs.ai/blog))_
 
 As of 2016, we will no longer work with clients on fixed bid projects. They are not a good fit for us and we are not a good fit for them.
 
@@ -54,10 +54,10 @@ We will work with one or two week sprints and we can show results by the end of 
 
 I have been working with clients since 2008 and I found that the best relationships I've had have been with this model. It's the best way to maintain a healthy relationship with our client and it's less risky for both our clients and us.
 
-This model works very well for clients that want to work with an agile team in a lean project. And we love to [apply Lean Startup](https://www.ombulabs.com/blog/lean-startup/the-lean-startup-way.html) not only to our own products but also to our clients' projects!
+This model works very well for clients that want to work with an agile team in a lean project. And we love to [apply Lean Startup](https://www.ombulabs.ai/blog/lean-startup/the-lean-startup-way.html) not only to our own products but also to our clients' projects!
 
 We rigorously track all the time that we spend on projects. Every invoice we send includes a list of tasks and the total amount for the work we completed.
 
-We have a great team of developers, designers and product managers ready to work on your project. If you are interested in working with us, [**get in touch!**](https://www.ombulabs.com/#contact)
+We have a great team of developers, designers and product managers ready to work on your project. If you are interested in working with us, [**get in touch!**](https://www.ombulabs.ai/#contact)
 
-_\[This article was originally published in November 2015 on the Ombu Labs blog:_ [_https://www.ombulabs.com/blog/software-development/time-and-material.html_](https://www.ombulabs.com/blog/software-development/time-and-material.html)_\]_
+_\[This article was originally published in November 2015 on the OmbuLabs.ai blog:_ [_https://www.ombulabs.ai/blog/software-development/time-and-material.html_](https://www.ombulabs.ai/blog/software-development/time-and-material.html)_\]_

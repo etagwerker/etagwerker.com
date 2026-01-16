@@ -19,6 +19,6 @@ Last Friday I completely forgot to write an article and I ended up writing it du
 
 I'm currently on another streak. I've [contributed to open source projects for 14 days straight](https://github.com/etagwerker): From April 13th to April 26th.
 
-I've been quite obsessed with [consistency](https://medium.com/@etagwerker/consistency-76a4a8b31d34#.9cakfgw6j) and streaks. I even wrote about [The 7 Days Open Source Challenge](https://www.ombulabs.com/blog/open-source/the-7-days-open-source-challenge.html). I believe that they are a great way to get better at something. **Practice does make perfect.**
+I've been quite obsessed with [consistency](https://medium.com/@etagwerker/consistency-76a4a8b31d34#.9cakfgw6j) and streaks. I even wrote about [The 7 Days Open Source Challenge](https://www.ombulabs.ai/blog/open-source/the-7-days-open-source-challenge.html). I believe that they are a great way to get better at something. **Practice does make perfect.**
 
 I believe that **streaks** are a great way to **form a habit**. Give it a try!

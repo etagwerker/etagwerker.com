@@ -7,7 +7,7 @@ keywords: []
 slug: /the-problem-with-estimates-15c5de537067
 ---
 
-There is a good reason [why we no longer work on fixed bid projects](https://www.ombulabs.com/blog/software-development/time-and-material.html?utm_source=medium) at [Ombu Labs](https://www.ombulabs.com?utm_source=medium), it's **impossible to estimate** **with** **certainty** in a **startup environment**.
+There is a good reason [why we no longer work on fixed bid projects](https://www.ombulabs.ai/blog/software-development/time-and-material.html?utm_source=medium) at [OmbuLabs.ai](https://www.ombulabs.ai), it's **impossible to estimate** **with** **certainty** in a **startup environment**.
 
 <!--more-->
 

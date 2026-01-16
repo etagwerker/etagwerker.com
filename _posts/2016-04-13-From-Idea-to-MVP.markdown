@@ -18,4 +18,4 @@ In the simplest case, you will build a landing page to show your unique value
 proposition and you will collect email addresses of people who might be
 interested.
 
-I wrote a detailed post about this idea for the Ombu Labs blog. Check it out! [https://www.ombulabs.com/blog/lean-startup/mvp/the-landing-page-mvp.html](https://www.ombulabs.com/blog/lean-startup/mvp/the-landing-page-mvp.html)
+I wrote a detailed post about this idea for the [OmbuLabs.ai](https://www.ombulabs.ai) blog. Check it out! [https://www.ombulabs.ai/blog/lean-startup/mvp/the-landing-page-mvp.html](https://www.ombulabs.ai/blog/lean-startup/mvp/the-landing-page-mvp.html)

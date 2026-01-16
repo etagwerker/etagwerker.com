@@ -21,7 +21,7 @@ Here is my list of priorities:
 
 1.  **Health:** without this I can't enjoy the rest. These days I need to focus more on my sleep. **Sleep deprivation** sucks so much!
 2.  **Family:** I love my **wife** and little **daughter**! The good moments fill me with **joy** and motivate me to be better with the other items in this list.
-3.  **Work:** [Ombu Labs](https://www.ombulabs.com) allows me to live a comfortable life while building unique products and a company I can be proud of.
+3.  **Work:** [OmbuLabs.ai](https://www.ombulabs.ai) allows me to live a comfortable life while building unique products and a company I can be proud of.
 4.  **Friends:** I wish I could say this is number 3, but to be honest I have little time to hang out with friends lately. Hopefully in the future this will change.
 
 Sometimes weeks will go by and my priorities will get all messed up. This happens when you're running a company and _wearing way too many hats_ at once.

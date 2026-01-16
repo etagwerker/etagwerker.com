@@ -1,8 +1,8 @@
 ---
-title: Our Hiring Process at Ombu Labs
+title: Our Hiring Process at OmbuLabs.ai
 description: >-
   Today I published an article about our hiring process. Check it out:
-  https://www.ombulabs.com/blog/team/jobs/our-hiring-process.html
+  https://www.ombulabs.ai/blog/team/jobs/our-hiring-process.html
 date: '2016-04-19T20:29:49.852Z'
 categories: []
 keywords: []
@@ -10,7 +10,7 @@ slug: /our-hiring-process-at-ombu-labs-2f92bef6afc7
 ---
 
 Today I published an article about our hiring process. Check it out:
-[https://www.ombulabs.com/blog/team/jobs/our-hiring-process.html](https://www.ombulabs.com/blog/team/jobs/our-hiring-process.html)
+[https://www.ombulabs.ai/blog/team/jobs/our-hiring-process.html](https://www.ombulabs.ai/blog/team/jobs/our-hiring-process.html)
 
 <!--more-->
 

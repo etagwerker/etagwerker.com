@@ -35,7 +35,7 @@ The next distraction is just one context switch away. If you are using it in you
 
 The great thing about post-its is that you can't avoid looking at them. Stick it right next to your keyboard, or right below your screen. **You can't miss it.** Sure, someone can interrupt you, but if you look ahead you will still see it right there.
 
-At [Ombu Labs](https://www.ombulabs.com) we even use post-its to keep track of our backlog and our current (2 weeks) sprint. We recently re-organized our board to have three swim lanes by priority:
+At [OmbuLabs.ai](https://www.ombulabs.ai) we even use post-its to keep track of our backlog and our current (2 weeks) sprint. We recently re-organized our board to have three swim lanes by priority:
 
 1.  Critical
 2.  Important

@@ -2,14 +2,14 @@
 title: A few notes on hiring
 description: >-
   Lately I’ve been evaluating and interviewing quite a lot of candidates for the
-  Junior and Senior Developer positions at Ombu Labs.
+  Junior and Senior Developer positions at OmbuLabs.ai.
 date: '2016-05-26T02:45:42.488Z'
 categories: []
 keywords: []
 slug: /a-few-notes-on-hiring-d32090512c1
 ---
 
-Lately I’ve been evaluating and interviewing quite a lot of candidates for the [Junior and Senior Developer positions](https://www.ombulabs.com/jobs) at [Ombu Labs](https://www.ombulabs.com/).
+Lately I’ve been evaluating and interviewing quite a lot of candidates for the [Junior and Senior Developer positions](https://www.ombulabs.ai/jobs) at [OmbuLabs.ai](https://www.ombulabs.ai).
 
 Here is what I’ve learned in the process.
 
@@ -21,7 +21,7 @@ In a software consulting business like mine, you must have a **clear process** t
 
 If you have a **pool of questions** to ask each candidate, you should explain **why you are asking them**. You should explain what you are looking for with each question.
 
-Having a **well defined process** will allow you to delegate it to someone else when you can’t participate in the interviews. This is [our current process](https://www.ombulabs.com/blog/team/jobs/our-hiring-process.html) at [Ombu Labs](https://www.ombulabs.com).
+Having a **well defined process** will allow you to delegate it to someone else when you can’t participate in the interviews. This is [our current process](https://www.ombulabs.ai/blog/team/jobs/our-hiring-process.html) at [OmbuLabs.ai](https://www.ombulabs.ai).
 
 #### Rigorous filtering
 

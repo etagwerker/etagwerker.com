@@ -9,7 +9,7 @@ keywords: []
 slug: /the-death-of-a-successful-product-730755baaa29
 ---
 
-I have been using [Highrise](https://highrisehq.com/) since June 2011, and I have been very happy with the product for a long time. It has been very helpful for both [our consulting](https://www.ombulabs.com) business and [our own software-as-a-service solution](https://www.ombushop.com).
+I have been using [Highrise](https://highrisehq.com/) since June 2011, and I have been very happy with the product for a long time. It has been very helpful for both [our consulting](https://www.ombulabs.ai) business and [our own software-as-a-service solution](https://www.ombushop.com).
 
 ![](https://cdn-images-1.medium.com/max/800/1*2C5X4Q5vDcA_YV9AMxtd-Q.png)
 

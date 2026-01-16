@@ -17,7 +17,7 @@ It wasn't until March 2008 that I started working full-time for the first compan
 
 Ever since I started that [first company](http://www.aycron.com) I haven't stopped building businesses. One thing I learned in this first experience is that just because you know how to build software it doesn't mean that you know how to run a software business.
 
-In March 2011 I started my [second and current company](https://www.ombulabs.com). With time I have learned many things about running a business, but I still feel like I have so much more to learn and improve.
+In March 2011 I started my [second and current company](https://www.ombulabs.ai). With time I have learned many things about running a business, but I still feel like I have so much more to learn and improve.
 
 I have been running businesses for **more than 8 years**. Today I like to look back and appreciate all the things that I've built. It's been a rollercoaster of emotions.
 
