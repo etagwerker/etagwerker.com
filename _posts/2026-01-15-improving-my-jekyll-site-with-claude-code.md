@@ -3,7 +3,6 @@ layout: post
 title: "Improving My Jekyll Site with Claude Code"
 description: "How I used Claude Code to fix SEO issues, add Google Analytics 4, and set up GitHub Actions for my personal website in a single session."
 date: 2026-01-15
-categories: [ai]
 keywords: [claude code, jekyll, github actions, pair programming]
 slug: improving-my-jekyll-site-with-claude-code
 ---
