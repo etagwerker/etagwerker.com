@@ -21,8 +21,31 @@
     <meta name="description" content="{{ site.meta_description }}">
   {% endif %}
 
+  <!-- Noindex for pages that opt out of indexing -->
+  {% if page.noindex %}
+    <meta name="robots" content="noindex, nofollow">
+  {% endif %}
+
   <!-- Canonical URL -->
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% assign canonical_url = page.url | replace: '/index.html', '/' %}
+  <link rel="canonical" href="{{ site.url }}{{ canonical_url }}">
+
+  <!-- Pagination: noindex for page 2+ and rel prev/next -->
+  {% if paginator %}
+    {% if paginator.page > 1 %}
+      <meta name="robots" content="noindex, follow">
+    {% endif %}
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <link rel="prev" href="{{ site.url }}/">
+      {% else %}
+        <link rel="prev" href="{{ site.url }}/page{{ paginator.previous_page }}/">
+      {% endif %}
+    {% endif %}
+    {% if paginator.next_page %}
+      <link rel="next" href="{{ site.url }}/page{{ paginator.next_page }}/">
+    {% endif %}
+  {% endif %}
 
   <!-- Open Graph -->
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
